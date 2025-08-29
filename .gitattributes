@@ -1,1 +1,2 @@
 node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-950f62a7a8b1f9737576e93f3679fa548a132286.pack filter=lfs diff=lfs merge=lfs -text
